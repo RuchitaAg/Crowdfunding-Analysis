@@ -16,32 +16,35 @@ As part of the review we studied outcomes data of 4114 kickstarter campaigns pan
 
 Highlevel analysis suggests that _Theater_ and _Music_ are most popular categories in terms of number of fundraiser campaigns initiated as well as their Success rates with majority campaigns launched in the US and Great Britain.  
 
-While overall success rate for all campaign was merely 53%, for Theatre it was a modest 60% success. A sub-category analysis suggested that Plays dominated the Theater category with 83% of Thetrical campaigns related to Plays.
+While overall success rate for all campaign was merely 53%, for Theatre it was a modest 60% success. 
 
-[Parent Category Analysis](Resources/Outcomes_vs_Parent Category.png)
+(![image](https://user-images.githubusercontent.com/102870991/163673442-63d4e86c-e784-434c-81fa-897b66de503e.png)
 
-[Sub-Category Analysis_US Market](Resources/Outcomes_vs_Parent Category.png)
+The sub-category analysis suggested that Plays dominated the funding landscape. 83% of Thetrical campaigns were also related to Plays.
+
+![image](https://user-images.githubusercontent.com/102870991/163673463-9a97c091-0576-4589-a1fa-abdc21c2ccba.png)
+
 
 So, Louise is ceratinly in the right spot as far as market and sub-category are involved. Further deepdive of Outcomes data by Launch date and Goal value is as shared below.
 
 
 ### Analysis of Outcomes Based on Launch Date
 
-Based on the launch dates it was amply clear that the month that launched the most successful Kickstarter campaigns was May followed by June and July. While the chances of failure do not spike significantly in any particualr time of the year. 
+Based on the launch dates it was amply clear that the month that launched most successful Kickstarter campaigns was May followed by June and July. While the chances of failure do not spike significantly in any particualr time of the year. 
 
 Accordingly Louise might want to consider launching her campaign during May/June.
 
-[Theater Outcomes Based on Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
+![image](https://user-images.githubusercontent.com/102870991/163673469-c9920b86-a1e5-4119-ae9a-ab3633e0a7a8.png)
 
 
 
 ### Analysis of Outcomes Based on Goals
 
 
-While studying the goals it is evident that the chances of success are inversely proportional with the size of the campign. However, few categories might be impacted by handful of large entries. For this reason we have done statistical analysis as well which suggests that in far and few cases there was success in raising funds for high value campaigns.
+While studying the goals it is evident that the chances of success are inversely proportional with the size of the campign. However, few buckets (between 35000 to 45000 as shown in chart below) might be impacted by handful of large entries. For this reason we have done statistical analysis as well which suggests that in far and few cases there was success in raising funds for high value campaigns.
 
+![image](https://user-images.githubusercontent.com/102870991/163673478-a3c731b6-dfac-4682-9d59-6580f2ef379d.png)
 
-[Outcomes Based on Goal](Resources/Outcomes_Vs_Goals.png)
 
 We narrowed down the study to US Plays category which was not only relevant for Louise's campaign but also helped to limit goals in one currency. 
 
@@ -90,4 +93,5 @@ Louise must reconsider the campaign value to see if she could manage with smalle
 
 ### What are some other possible tables and/or graphs that we could create?
  
-[Box_&_Whiskers_US_Plays_Subcategory_Analysis](Resources/US_Plays_Box_&_Whiskers.png)
+![image](https://user-images.githubusercontent.com/102870991/163673489-d1de1b5e-314d-48ea-9b27-48b88d15317c.png)
+
